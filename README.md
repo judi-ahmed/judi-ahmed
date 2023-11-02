@@ -6,7 +6,7 @@
 
 <h2>📃 Certifications</h2>
 
- - [Google Cybersecurity](https://www.coursera.org/account/accomplishments/professional-cert/C26DXUWEMUAX)
+ - [Google Cybersecurity Certificate](https://www.coursera.org/account/accomplishments/professional-cert/C26DXUWEMUAX)
 
 
  
